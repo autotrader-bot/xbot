@@ -21,6 +21,3 @@
 
 
 - RoI: 14.73 % / 32days, 0.46 % / d
-
-Telegram: @tititantantan
-
